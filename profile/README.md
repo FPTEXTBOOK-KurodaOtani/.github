@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.jpg" alt="量子力学から紐解く第一原理計算 表紙" width="360">
+  <img src="./cover.png" alt="量子力学から紐解く第一原理計算 表紙" width="360">
 </p>
 
 <h1 align="center">
