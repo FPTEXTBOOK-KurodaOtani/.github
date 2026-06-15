@@ -61,7 +61,7 @@ ASE や Pymatgen を用いることで、結晶構造の作成、変換、入力
 
 ## Hands_on_sec33
 
-https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
+https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec33
 
 `Hands_on_sec33` には、Quantum ESPRESSO (QE) を用いた DFT 計算の練習用入力ファイルを用意しています。
 
