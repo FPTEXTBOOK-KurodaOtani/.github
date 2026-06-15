@@ -43,6 +43,8 @@ Hands_on_sec33
 
 ## Hands_on_sec31
 
+https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
+
 `Hands_on_sec31` には、教科書の基礎的な内容を理解するための Python プログラムが含まれています。
 
 これらの基礎プログラムは Python で書かれています。読者の皆さまには、本書の該当箇所を参考にしながらプログラムを読み、計算の意味を理解していただくことを想定しています。
@@ -58,6 +60,8 @@ Hands_on_sec33
 ASE や Pymatgen を用いることで、結晶構造の作成、変換、入力ファイル生成などを効率的に行うことができます。
 
 ## Hands_on_sec33
+
+https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
 
 `Hands_on_sec33` には、Quantum ESPRESSO (QE) を用いた DFT 計算の練習用入力ファイルを用意しています。
 
