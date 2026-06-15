@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cover.jpg" alt="量子力学から紐解く第一原理計算 表紙" width="360">
+</p>
+
 <h1 align="center">
 量子力学から紐解く第一原理計算<br>
 ―固体電子論からQuantum ESPRESSO実践まで―
