@@ -1,4 +1,4 @@
-# FPTEXTBOOK-KurodaOtani
+# 量子力学から紐解く第一原理計算 ―固体電子論からQuantum ESPRESSO実践まで―
 
 この GitHub organization は、以下の教科書を補足するためのサポートサイトです。
 
