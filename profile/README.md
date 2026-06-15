@@ -25,6 +25,7 @@
 
 ## Correction
 
+https://github.com/FPTEXTBOOK-KurodaOtani/Correction
 
 大変申し訳ございませんが、
 本文中に誤植や修正が必要な箇所があります。教科書を読み始める前に、まず `Correction` をご確認ください。学習を進める前に `Correction` を確認していただくことで、より正確に内容を理解と存じます。
