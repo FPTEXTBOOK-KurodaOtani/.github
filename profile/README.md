@@ -44,7 +44,7 @@ Hands_on_sec33
 
 それぞれの内容は以下の通りです。
 
-### Hands_on_sec31
+## > Hands_on_sec31
 
 https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
 
@@ -54,7 +54,7 @@ https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
 
 また、入力パラメータを変更することで、出力結果がどのように変化するかを確認し、その物理的な意味について考察していただければ幸いです。
 
-### Hands_on_sec32
+## > Hands_on_sec32
 
 `Hands_on_sec32` には、Atomic Simulation Environment (ASE) や Python Materials Genomics (Pymatgen) を用いた簡単な hands-on を用意しています。
 
@@ -62,7 +62,7 @@ https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
 
 ASE や Pymatgen を用いることで、結晶構造の作成、変換、入力ファイル生成などを効率的に行うことができます。
 
-### Hands_on_sec33
+## > Hands_on_sec33
 
 https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec33
 
