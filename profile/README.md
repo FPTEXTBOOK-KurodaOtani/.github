@@ -1,33 +1,65 @@
 # FPTEXTBOOK-KurodaOtani
 
-This GitHub organization is a support site for the textbook.
+この GitHub organization は、以下の教科書を補足するためのサポートサイトです。
 
-It provides hands-on Python programs for learning the fundamentals of electronic structure calculations, first-principles methods, and model Hamiltonians.
+```text
+量子力学から紐解く第一原理計算
+―固体電子論からQuantum ESPRESSO実践まで―
+```
 
-The programs are designed to be used together with the corresponding sections of the textbook. Readers are encouraged to read the explanations in the book, run the programs, modify input parameters, and examine how the calculated results change.
+本書の情報は、以下のページから確認できます。
 
-## Main Topics
+- 科学情報出版 書籍ページ  
+  https://www.it-book.co.jp/books/178.html
+- Amazon  
+  https://amzn.asia/d/06FoBECk
 
-- Empty-lattice band structure
-- Tight-binding models
-- Free-electron density of states
-- One-dimensional periodic potentials
-- Local and empirical pseudopotential methods
-- Si and GaAs band structures
-- Ewald summation and Madelung constants
-- Two-site Hubbard model
-- Hartree-Fock calculations for H and He atoms
-- Linear mixing and Anderson mixing
-- Simple LDA pseudopotential DFT calculations
+本サイトでは、電子構造計算、第一原理計算、モデルハミルトニアンなどを学ぶための hands-on プログラムや入力ファイルを公開しています。読者の皆さまには、教科書の該当箇所を参照しながら、プログラムを実行し、入力パラメータを変更し、その結果がどのように変化するかを確認していただくことを目的としています。
 
-## Main Repository
+## Correction
 
-### `Hands_on_sec31`
 
-This repository contains basic Python programs for learning electronic structure, band theory, tight-binding models, pseudopotentials, Hartree-Fock calculations, and self-consistent-field methods.
+大変申し訳ございませんが、
+本文中に誤植や修正が必要な箇所があります。教科書を読み始める前に、まず `Correction` をご確認ください。学習を進める前に `Correction` を確認していただくことで、より正確に内容を理解と存じます。
+
+## Repository Overview
+
+本サイトには、主に以下の hands-on 用リポジトリがあります。
+
+```text
+Hands_on_sec31
+Hands_on_sec32
+Hands_on_sec33
+```
+
+それぞれの内容は以下の通りです。
+
+## Hands_on_sec31
+
+`Hands_on_sec31` には、教科書の基礎的な内容を理解するための Python プログラムが含まれています。
+
+これらの基礎プログラムは Python で書かれています。読者の皆さまには、本書の該当箇所を参考にしながらプログラムを読み、計算の意味を理解していただくことを想定しています。
+
+また、入力パラメータを変更することで、出力結果がどのように変化するかを確認し、その物理的な意味について考察していただければ幸いです。
+
+## Hands_on_sec32
+
+`Hands_on_sec32` には、Atomic Simulation Environment (ASE) や Python Materials Genomics (Pymatgen) を用いた簡単な hands-on を用意しています。
+
+主に、Quantum ESPRESSO (QE) の入力ファイルを Python で作成する方法や、構造データを扱うための基本的な操作を確認する内容になっています。
+
+ASE や Pymatgen を用いることで、結晶構造の作成、変換、入力ファイル生成などを効率的に行うことができます。
+
+## Hands_on_sec33
+
+`Hands_on_sec33` には、Quantum ESPRESSO (QE) を用いた DFT 計算の練習用入力ファイルを用意しています。
+
+ここでは、QE を使った DFT 計算の練習と、本書で議論してきた内容の確認を目的として、いくつかの演習用入力ファイルをまとめています。
+
+計算手順については、各ディレクトリ内の `README.md` ファイルを参照してください。
 
 ## Purpose
 
-The purpose of this site is to help readers understand the physical meaning of the equations, parameters, and numerical results discussed in the textbook.
+本サイトの目的は、教科書で示した式、パラメータ、数値計算結果の物理的意味を、実際のプログラムや入力ファイルを通して理解していただくことです。
 
-By changing input parameters such as hopping integrals, potential depth, cutoff radius, Coulomb interaction, and exchange parameters, users can learn how electronic structures, density of states, Fermi surfaces, band gaps, and self-consistent convergence behavior are affected.
+読者の皆さまには、単にプログラムを実行するだけでなく、入力パラメータを変更し、計算結果の変化を観察することで、電子構造計算や第一原理計算の考え方をより深く理解していただければ幸いです。
