@@ -1,4 +1,7 @@
-# 量子力学から紐解く第一原理計算-固体電子論からQuantum ESPRESSO実践まで-
+<h1 align="center">
+量子力学から紐解く第一原理計算<br>
+―固体電子論からQuantum ESPRESSO実践まで―
+</h1>
 
 この GitHub organization は、以下の教科書を補足するためのサポートサイトです。
 
