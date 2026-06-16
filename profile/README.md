@@ -56,6 +56,8 @@ https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec31
 
 ## > Hands_on_sec32
 
+https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec32
+
 `Hands_on_sec32` には、Atomic Simulation Environment (ASE) や Python Materials Genomics (Pymatgen) を用いた簡単な hands-on を用意しています。
 
 主に、Quantum ESPRESSO (QE) の入力ファイルを Python で作成する方法や、構造データを扱うための基本的な操作を確認する内容になっています。
