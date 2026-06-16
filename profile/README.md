@@ -31,7 +31,7 @@ https://github.com/FPTEXTBOOK-KurodaOtani/Correction
 
 大変申し訳ございませんが、
 本文中に誤植や修正が必要な箇所があります。教科書を読み始める前に、まず `Correction` をご確認ください。学習を進める前に `Correction` を確認していただくことで、より正確に内容を理解と存じます。
-こちらに記載されていない誤植や不明点・質問などがございましたら、CorrectionのIssue( https://github.com/FPTEXTBOOK-KurodaOtani/Correction/issues )として、お教え願えましたら幸いです。
+こちらに記載されていない誤植や不明点・質問などがございましたら、CorrectionのIssue( https://github.com/FPTEXTBOOK-KurodaOtani/Correction/issues )として、お教えいただけましたら幸いです。
 
 ##  Hands_on Repository Overview
 
