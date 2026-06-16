@@ -74,3 +74,8 @@ https://github.com/FPTEXTBOOK-KurodaOtani/Hands_on_sec33
 ここでは、QE を使った DFT 計算の練習と、本書で議論してきた内容の確認を目的として、いくつかの演習用入力ファイルをまとめています。
 
 計算手順については、各ディレクトリ内の `README.md` ファイルを参照してください。
+
+##  Supporting_infomation
+
+現在、作成中です。完成次第、随時更新しますので、申し訳ございませんがしばらくお待ちください。
+
